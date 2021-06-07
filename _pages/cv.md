@@ -28,9 +28,9 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
-* 2019/12 -- 2020/6, Speech Group at Microsoft Research Asia
-* 2020/9 -- 2021/1, Learning to Rank (LTR) Group at Baidu Search
-* 2021/1 -- 2021/6, Natural Language Computing (NLC) Group at Microsoft Research Asia
+* 2019/12 -- 2020/06, Speech Group at Microsoft Research Asia
+* 2020/09 -- 2021/01, Learning to Rank (LTR) Group at Baidu Search
+* 2021/01 -- 2021/06, Natural Language Computing (NLC) Group at Microsoft Research Asia
   
 <!-- Skills
 ======
