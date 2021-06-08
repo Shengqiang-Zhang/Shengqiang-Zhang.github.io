@@ -28,9 +28,9 @@ In SIGKDD 2021.
 
 
 # Education
-* Bachelor of Science at Jilin University, 2014/09 -- 2018/07  
-* Exchange student at Harbin Institute of Technology, 2015/09 -- 2016/07
-* Master of Engineering at Peking University, 2018/09 -- 2021/07
+* 2014/09 -- 2018/07, Bachelor of Science at Jilin University, Changchun  
+* 2015/09 -- 2016/07, Exchange student at Harbin Institute of Technology, Harbin
+* 2018/09 -- 2021/07, Master of Engineering at Peking University, Beijing
 
 
 # Work Experience
