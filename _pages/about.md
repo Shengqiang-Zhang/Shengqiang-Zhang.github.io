@@ -13,7 +13,7 @@ Previously, I worked as an intern at Microsoft Research Asia and Baidu Search.
 I'm interested in natural language processing, especially summarization and text generation.
 
 
-# Publication
+# Publications
 
 (* indicates equal contribution)
 
