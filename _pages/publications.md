@@ -17,9 +17,9 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2021
-* [Attention Temperature Matters in Abstractive Summarization Distillation]  
+* [Attention Temperature Matters in Abstractive Summarization Distillation](https://arxiv.org/abs/2106.03441)   
 **Shengqiang Zhang$^{\*}$**, Xingxing Zhang$^{\*}$, Hangbo Bao, Furu Wei.  
-Preprint.
+Preprint. Under review.
 
 * [Pre-Trained Language Model based Ranking in Baidu Search](https://arxiv.org/abs/2105.11108)  
 Lixin Zou$^{\*}$, **Shengqiang Zhang$^\*$**, Hengyi Cai, Dehong Ma, Suqi Cheng, Daiting Shi, Shuaiqiang Wang, Zhicong Cheng, Dawei Yin.  
