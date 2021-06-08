@@ -12,8 +12,6 @@ I am a final-year master student at Peking University.
 Previously, I worked as an intern at Microsoft Research Asia and Baidu Search.
 I'm interested in natural language processing, especially summarization and text generation.
 
-<!-- # clustrmap -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tprgNgGDK2b4DA3hWGtRbIKI-OWlzeuFOyUDpQ1i_0M&cl=ffffff&w=a"></script>
 
 # Publication
 
