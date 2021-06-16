@@ -12,6 +12,8 @@ I am a final-year master student at Peking University.
 Previously, I worked as an intern at Microsoft Research Asia and Baidu Search.
 I'm interested in natural language processing, especially summarization and text generation.
 
+I'm looking for a PhD position starting from 2022 fall.
+
 
 # Publications
 
